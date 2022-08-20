@@ -1,0 +1,5 @@
+# ninja log v5
+44	82	1656987301970720503	Assignment2	b6830c96f61d79cb
+1	44	1656987301931327012	CMakeFiles/Assignment2.dir/Tester_Main.c.o	c0ec1ee39bd1b3d5
+1	43	1656889361696627701	CMakeFiles/Assignment2.dir/Covid19_Data_Analysis.c.o	32a88a272061931c
+0	65	1657735701116150393	build.ninja	86c9f16253c64763

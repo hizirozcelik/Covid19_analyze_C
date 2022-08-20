@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign2/Covid19_Data_Analysis.c
+Covid19_Data_Analysis.h
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign2/Covid19_Data_Analysis.h
+stdio.h
+-
+time.h
+-
+
+/Users/ozcelik/Documents/Documents - HIZIR’s MacBook Pro/00_SDNE/SDNE4/C/Code/HizirOzcelikAssign2/Covid19_Data_Analysis.h
+
